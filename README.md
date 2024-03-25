@@ -1,24 +1,24 @@
-# JavaScript Data Structures and Algorithm
-Algorithms and data structures implemented in JavaScript with my explanation and links to relevant readings. This repository is supposed to help anyone who is learning DSA in JavaScript and also who is preparing for coding interview.
+# JavaScript Data Structures and Algorithms 🚀
+Algorithms and data structures implemented in JavaScript with explanations and links to relevant readings. This repository aims to assist anyone learning DSA in JavaScript and preparing for coding interviews.
 
-# Roadmap to JavaScript Mastery
+# Roadmap to JavaScript Mastery 🌟
 
-## Basics of Programming with JavaScript
+## 🛠 Basics of Programming with JavaScript
 <details>
 <summary>View details</summary>
 
-- Syntax and Semantics
-- Control Structures (loops, conditionals)
-- Functions (declaration, recursion, scope)
-- Basic Data Structures
+- **Syntax and Semantics**
+- **Control Structures** (loops, conditionals)
+- **Functions** (declaration, recursion, scope)
+- **Basic Data Structures**
   - Arrays
   - Objects
-- Complexity Analysis
+- **Complexity Analysis**
   - Time and Space Complexity (Big O Notation)
 
 </details>
 
-## Fundamental Data Structures
+## 🏗 Fundamental Data Structures
 <details>
 <summary>View details</summary>
 
@@ -38,7 +38,7 @@ Algorithms and data structures implemented in JavaScript with my explanation and
 
 </details>
 
-## Intermediate Data Structures
+## 🌲 Intermediate Data Structures
 <details>
 <summary>View details</summary>
 
@@ -56,7 +56,7 @@ Algorithms and data structures implemented in JavaScript with my explanation and
 
 </details>
 
-## Advanced Concepts and Data Structures
+## 📚 Advanced Concepts and Data Structures
 <details>
 <summary>View details</summary>
 
@@ -75,7 +75,7 @@ Algorithms and data structures implemented in JavaScript with my explanation and
 
 </details>
 
-## Algorithms Design and Problem Patterns
+## 🔍 Algorithms Design and Problem Patterns
 <details>
 <summary>View details</summary>
 
@@ -95,32 +95,32 @@ Algorithms and data structures implemented in JavaScript with my explanation and
 
 </details>
 
-## Practice, Practice, Practice
+## 💡 Practice, Practice, Practice
 <details>
 <summary>View details</summary>
 
 - **LeetCode**
-  - Top Interview Questions Collection
+  - [Top Interview Questions Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 - **HackerRank**
-  - Contests
-  - Interview Preparation Kits
+  - [Contests](https://www.hackerrank.com/contests)
+  - [Interview Preparation Kits](https://www.hackerrank.com/interview/interview-preparation-kit)
 - **CodeSignal**
-  - Interview Practice Section
+  - [Interview Practice Section](https://codesignal.com/developers/interview-practice/)
 
 </details>
 
-## Mock Interviews
+## 🤝 Mock Interviews
 <details>
 <summary>View details</summary>
 
 - **Pramp**
-  - Peer-to-peer Mock Interviews
+  - [Peer-to-peer Mock Interviews](https://www.pramp.com)
 - **Interviewing.io**
-  - Practice with Professionals
+  - [Practice with Professionals](https://interviewing.io)
 
 </details>
 
-## System Design (for Senior Roles)
+## 🏛 System Design (for Senior Roles)
 <details>
 <summary>View details</summary>
 
