@@ -1,5 +1,7 @@
 # Binary Trees
 
+* [Binary Trees Study guide](https://leetcode.com/discuss/study-guide/1212004/binary-trees-study-guide)
+
 * Link to read: [Binary Trees W3 Schools](https://www.w3schools.com/dsa/dsa_data_binarytrees.php).
 
 * Link to JavaScript Implementation: [Binary Search Tree Implementation](https://gist.github.com/Prottoy2938/c61a4fa5614c0086952e2464b80136be#file-binarysearchtree-js).
