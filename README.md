@@ -1,5 +1,5 @@
 # JavaScript Data Structures and Algorithms 🚀
-Algorithms and data structures implemented in JavaScript with explanations and links to relevant readings. This repository aims to assist anyone learning DSA in JavaScript and preparing for coding interviews.
+Algorithms and data structures implemented in JavaScript with explanations and links to relevant readings. This repository aims to assist anyone learning DSA in JavaScript and preparing for coding interviews. This is helpful for beginners
 
 # Roadmap to JavaScript Mastery 🌟
 
